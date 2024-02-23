@@ -1,4 +1,3 @@
-import random
 import awsgi
 from flask import Flask, jsonify
 
